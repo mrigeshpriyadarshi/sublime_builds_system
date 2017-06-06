@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"AnsibleSnippets",
+		"Chef",
+		"CSS Format",
+		"Fix Mac Path",
+		"GoSublime",
+		"GoTools",
+		"IndentX",
+		"JavaIME",
+		"Javatar",
+		"JSON Reindent",
+		"JSONLint",
+		"Mistral",
+		"Monokai JSON+",
+		"Package Control",
+		"Pretty JSON",
+		"Pretty Ruby",
+		"Pretty YAML",
+		"Puppet",
+		"RuboCop",
+		"Ruby on Rails snippets",
+		"SublimeLinter-json"
+	]
+}
